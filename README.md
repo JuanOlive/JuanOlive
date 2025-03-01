@@ -81,8 +81,8 @@ Desenvolvedor Front-End Júnior apaixonado por criar interfaces modernas, respon
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-     
-
+<br/>
+###
 ## 🚀 Projetos Destacados
 
 ### [Clone Tiktok]()
