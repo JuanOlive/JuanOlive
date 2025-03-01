@@ -1,8 +1,10 @@
-# Olá, eu sou Juan! 👋
+# Juan 
+
+**`Desenvolvedor Front-End`**
 
 Desenvolvedor Front-End Júnior apaixonado por criar interfaces modernas, responsivas e intuitivas. Com experiência em **Next.js**, **TypeScript** e **Tailwind CSS**, estou sempre buscando aprender e aplicar as melhores práticas de desenvolvimento web. Adoro trabalhar com integrações de APIs e transformar designs em código funcional e acessível.
 
-## 🛠️ Habilidades Técnicas
+---
 
 ### Linguagens e Frameworks
 
@@ -82,8 +84,8 @@ Desenvolvedor Front-End Júnior apaixonado por criar interfaces modernas, respon
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
-###
-## 🚀 Projetos Destacados
+
+### 🚀 Projetos Destacados
 
 ### [Clone Tiktok]()
 - **Descrição**: Breve descrição do projeto.
