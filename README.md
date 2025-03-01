@@ -90,15 +90,13 @@ Desenvolvedor Front-End Júnior apaixonado por criar interfaces modernas, respon
 ### Projetos Destacados
 
 ### [Clone Tiktok]()
-- **Descrição**: Breve descrição do projeto.
+- **Descrição**: Um clone do tiktok feito por mim, para apresentar melhor o meu trabalho.
 - **Tecnologias**: Next.js, TypeScript, Tailwind CSS, [API utilizada].
-- **Destaques**: O que você aprendeu ou o que foi desafiador.
+- **Destaques**: O mais dificil foi deixar tudo igual, responsivo e funcionando..
 
 
 
 <br/>
-
-### 📊 Estatísticas
 
 
 <img 
